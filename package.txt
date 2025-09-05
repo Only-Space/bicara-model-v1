@@ -1,0 +1,1 @@
+pip install cvzone mediapipe opencv-python numpy tensorflow matplotlib
