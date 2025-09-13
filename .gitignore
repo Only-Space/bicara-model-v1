@@ -2,7 +2,7 @@
 venv/
 
 # Folder dataset
-dataset/
+datasets/
 
 # Folder cache Python
 __pycache__/
